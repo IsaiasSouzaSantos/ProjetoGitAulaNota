@@ -1,0 +1,36 @@
+@import 'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:ital,wght@0,400;1,300&family=Montserrat:wght@400;500;600;700;900&family=Mukta:wght@400;700&family=Nunito:wght@500&family=Oswald&family=Playfair+Display:ital,wght@0,400;1,500&display=swap';
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+main{
+    height:100vh;
+    width: 100vw;
+    border: 1px solid #000;
+}
+
+h1{
+    text-align:center;
+    margin-top:15px;
+    text-transform:uppercase;
+    font-family: 'Montserrat', sans-serif
+}
+
+figure{
+    display:inline-block;
+}
+
+section{
+    display: flex;
+}
+
+p{
+    margin:10%;
+    width:450px;
+    text-align: justify;
+    font-size:18pt;    
+}
+
