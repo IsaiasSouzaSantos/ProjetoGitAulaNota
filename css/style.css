@@ -34,3 +34,10 @@ p{
     font-size:18pt;    
 }
 
+h6{
+    color:rgb(48, 36, 36);
+    font-size:20px;
+    text-align: center;
+    text-transform: uppercase;
+    box-shadow:2px 2px 10px #000;
+}
