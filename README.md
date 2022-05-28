@@ -10,7 +10,7 @@ Esté projeto e só para o Professor avaliar os meus conhecimento de Git/GitHub
 
 <img src="./img/screen.jpg" width = "600px" border = 1>
 
-> Layout sempre só para treinar commits e push no git
+> Layout simples só para treinar commits e push no git
 
 
 ## 🤝 Desenvolvedor
